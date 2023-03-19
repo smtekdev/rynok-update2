@@ -4961,7 +4961,7 @@ div.product-title a:hover {
 .single-product-card.product-card-list .part-txt {
   display: -webkit-box;
   display: -ms-flexbox;
-  display: flex;
+  display: contents;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
