@@ -1178,7 +1178,7 @@ img {
 }
 .header .top-header .top-header-link > * {
   font-size: 14px;
-  line-height: 100%;
+  line-height: 117%;
   padding: 0 20px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1510,7 +1510,7 @@ img {
   padding: 0;
 }
 .header .menu-bar .navbar .nav-item {
-  padding: 0 15px;
+  padding: 0 26px;
 }
 .header .menu-bar .navbar .nav-item .nav-link {
   padding: 10px 0;
@@ -4097,7 +4097,7 @@ div.product-title a:hover {
 }
 .rev-7-banner .single-area {
   text-align: center;
-  background: url(../images/bg/index-7-banner-area-1.jpg) no-repeat center 0;
+  background: url(../Videos/New-Products.gif)rgba(34, 34, 35, 0.35) no-repeat center 0;
   background-size: cover;
   color: #ffffff;
   padding: 40px 0 371px;
@@ -4178,13 +4178,13 @@ div.product-title a:hover {
   z-index: -1;
 }
 .rev-7-banner .rev-7-second-col .single-area-2 {
-  background-image: url(../images/bg/index-7-banner-area-2.jpg);
+  background-image: url(../Videos/Discount-And-Coupons.gif);
 }
 .rev-7-banner .rev-7-second-col .single-area-3 {
-  background-image: url(../images/bg/index-7-banner-area-3.jpg);
+  background-image: url(../Videos/USED-PRODUCTS.gif);
 }
 .rev-7-banner .rev-7-second-col .single-area-4 {
-  background-image: url(../images/bg/index-7-banner-area-4.jpg);
+  background-image: url(../Videos/Listings-New.gif);
 }
 .rev-7-banner .rev-7-second-col .single-area-5 {
   background-image: url(../images/bg/services.jpg);
